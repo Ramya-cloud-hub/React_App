@@ -1,0 +1,29 @@
+{
+  "contacts": [
+    {
+      "id": "15e7314a-4cb0-46bd-b2f8-370de2d2e920",
+      "name": "Ramya",
+      "email": "ramya118gowda@gmail.com"
+    },
+    {
+      "id": "478e9028-6fe5-4615-bf78-dff266dce6e1",
+      "name": "Srinivas Chakravarthy",
+      "email": "srinivas.spidy@gmail.com"
+    },
+    {
+      "id": "375fffae-40f9-4696-8f6b-ce0ec40a5526",
+      "name": "Mike",
+      "email": "mike@gmail.com"
+    },
+    {
+      "id": "2ec90e87-67ce-4aba-baa4-03b89997bca7",
+      "name": "Madhu",
+      "email": "madhu@gmail.com"
+    },
+    {
+      "id": "3e405373-0cf5-4ab5-b64d-7b050fa9fbfb",
+      "name": "Ramya",
+      "email": "ramya118gowda@gmail.com"
+    }
+  ]
+}
